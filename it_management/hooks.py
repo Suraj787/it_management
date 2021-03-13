@@ -10,6 +10,7 @@ app_icon = "octicon octicon-checklist"
 app_color = "blue"
 app_email = "Dienstleistungsverträge, Accounts und Internetleistungen.info@tueit.de"
 app_license = "GPL"
+app_logo_url = '/assets/it_management/images/kiss_web.png'
 
 # Includes in <head>
 # ------------------
